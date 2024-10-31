@@ -1,0 +1,100 @@
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'udp': {'method': 'udp', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['udp']dict_keys([123, 137, 138])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'udp': {'method': 'udp', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['udp']dict_keys([123, 137, 138])
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'udp': {'method': 'udp', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['udp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp'][]
+-------------------------------------------------
+Scan results for IP: 192.168.0.50
+Scan Info: {'tcp': {'method': 'syn', 'services': '1-1024'}}
+IP Status: up
+Open Ports: ['tcp']dict_keys([135, 137, 139, 445])
+-------------------------------------------------
